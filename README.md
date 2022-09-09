@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👩‍💻 I'm currently learning Front-End 
-- 👩‍🔬 I'm student at Electronics, Telecommunications and Information Technology engineer
+- 👩‍🔬 I'm student at Electronics, Telecommunications and Information Technology engineering
 - 🕹 I'm PS,PC Gamer 👌
 - 🥅 2023 Goals: to be Full-Stack Developer
 
