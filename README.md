@@ -6,7 +6,7 @@
 [linkedin]: https://www.linkedin.com/in/majedel-naser/
 [youtube]: https://www.youtube.com/channel/UCbiCFLz0goNo6pxHdZ5TamQ
 
-# Hye, I'm Majed El-Naser 👋
+# Hi, I'm Majed El-Naser 👋
 
 - 🌱 I’m currently learning everything 🤣
 - 👩‍💻 I'm currently learning Front-End 
