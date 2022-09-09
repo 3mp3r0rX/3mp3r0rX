@@ -15,6 +15,6 @@
 - 🥅 2023 Goals: to be Full-Stack Developer
 
 
-<img align="left" wdith="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img align="left" wdith="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mremperorx&layout=compact" />
 
 
