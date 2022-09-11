@@ -1,5 +1,3 @@
-![Majed on Web Development](https://github.com/mremperorx/majedCode/blob/main/Nothing.jpg)
-
 
 [facebook]: https://www.facebook.com/majed.alnasr.7/
 [instagram]: https://www.instagram.com/elnasermajed/
