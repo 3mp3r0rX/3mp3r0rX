@@ -7,6 +7,5 @@
 - 🥅 2023 Goals: to be Full-Stack Developer
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mremperorx)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mremperorx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
