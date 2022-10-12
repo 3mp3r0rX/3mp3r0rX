@@ -2,6 +2,8 @@
 
 [![Majed EL-Naser Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majedel-naser/)
 [![Majed EL-Naser Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/elnasermajed/)
+[![Majed EL-Naser Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/majed.alnasr.7)
+[![Majed EL-Naser Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4M5MadgRCb)
 
 - 🌱 I’m currently learning everything 🤣
 - 👩‍💻 I'm currently learning Front-End at IT-School 
