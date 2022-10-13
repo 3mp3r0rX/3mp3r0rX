@@ -6,8 +6,7 @@
 [![Majed EL-Naser Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4M5MadgRCb)
 
 - 🌱 I’m currently learning everything 🤣
-- 👩‍💻 I'm currently learning Front-End at IT-School 
-- 👩‍🔬 I'm student at Electronics, Telecommunications and Information Technology engineering
+- 👩‍💻 I'm currently learning Front-End at IT-School
 - 🕹 I'm PS,PC Gamer 👌
 - 🥅 2023 Goals: to be Full-Stack Developer
 
