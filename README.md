@@ -7,10 +7,6 @@
 [![Majed EL-Naser Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/majed.alnasr.7)
 [![Majed EL-Naser Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4M5MadgRCb)
 
-- 🌱 I’m currently learning everything 🤣
-- 👩‍💻 I'm currently learning Three.JS, Rust 
-- 🕹 I'm PS,PC Gamer 👌
-- 🥅 2023 Goals: to be Full-Stack Developer
 
 
 ### 💻 Languages
