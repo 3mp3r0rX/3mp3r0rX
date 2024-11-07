@@ -47,16 +47,16 @@
 
 ### 📈 GitHub Stats
 
-![Majed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mremperorx&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mremperorx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Majed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3mp3r0rX&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3mp3r0rX&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mremperorx&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=3mp3r0rX&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=mremperorx&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=3mp3r0rX&color=blue&style=flat-square)
 
 ---
 
