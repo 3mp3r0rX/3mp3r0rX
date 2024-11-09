@@ -64,7 +64,7 @@
 
 - **Data Analysis & Data Science**
 - **Cloud Native & DevOps**
-- **Advanced JavaScript Concepts**
+- **BackEnd**
 
 ### 👨‍💻 About Me
 
