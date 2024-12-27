@@ -47,7 +47,6 @@
 
 ### 📈 GitHub Stats
 
-![Majed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3mp3r0rX&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3mp3r0rX&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏆 GitHub Trophies
@@ -62,8 +61,7 @@
 
 ### 🌱 Currently Learning
 
-- **Data Analysis & Data Science**
-- **Cloud Native & DevOps**
+- **Data Analysis**
 - **BackEnd**
 
 ### 👨‍💻 About Me
